@@ -1,0 +1,5 @@
+# 忽略HBuilder 自己产生的 .project文件
+ 
+.project
+
+
